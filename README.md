@@ -12,7 +12,7 @@
 <h2 align="center">Languages and Tools: </h2>
 <br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,,html,css,vscode,github," alt="Languages and Frameworks 1" />
+    <img src="https://skillicons.dev/icons?i=,,html,css,vscode,github,figma" alt="Languages and Frameworks 1" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,lua,discordjs," alt="Languages and Frameworks 2" />
 </div>
 
