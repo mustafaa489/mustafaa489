@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript,php
+- 👨‍💻 I’m currently working on web development and five m server
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play games   🎱.
 
