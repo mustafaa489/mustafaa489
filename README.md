@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working on web development and five m server
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play games   🎱.
+- ⚡ Fun fact: I love to play games .
 
 
 <hr />
