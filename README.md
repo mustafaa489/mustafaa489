@@ -7,7 +7,13 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play games .
 
+```yaml                                                                      
 
+ Z      |\      _,,,---,,_
+  Z    / ,`.-'`'   -.  ;-,'-,,_
+   Zz  |,4-  ) )-,_. ´\ (  `'-,##>
+      ' --''(_/--'  `-'\_)                              
+```
 
 <hr />
 <h2 align="center">Languages and Tools: </h2>
