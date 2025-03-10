@@ -6,7 +6,7 @@
 - 👨‍💻 I’m currently working on web development and five m server
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play games .
-
+ 
 ```yaml                                                                      
 
  Z      |\      _,,,---,,_
@@ -20,7 +20,7 @@
 <br />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,,html,css,vscode,github,figma" alt="Languages and Frameworks 1" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,lua,python," alt="Languages and Frameworks 2" />
+    <img src="https://skillicons.dev/icons?i= python,javascript,mysql,lua,," alt="Languages and Frameworks 2" />
 </div>
 
 ---
