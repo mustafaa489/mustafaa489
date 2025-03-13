@@ -20,7 +20,7 @@
 <br />
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,,html,css,vscode,github,figma" alt="Languages and Frameworks 1" />
-    <img src="https://skillicons.dev/icons?i= python,javascript,mysql,lua,," alt="Languages and Frameworks 2" />
+    <img src="https://skillicons.dev/icons?i=,,python,javascript,mysql,lua,," alt="Languages and Frameworks 2" />
 </div>
 
 ---
