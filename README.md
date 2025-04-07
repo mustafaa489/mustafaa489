@@ -29,13 +29,21 @@
 
 
 
-<hr />
-<h2 align="center">Languages and Tools: </h2>
-<br />
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=,,html,css,vscode,github,figma" alt="Languages and Frameworks 1" />
-    <img src="https://skillicons.dev/icons?i=,,python,javascript,mysql,lua,," alt="Languages and Frameworks 2" />
-</div>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+
+
 
 
 
