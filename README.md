@@ -5,7 +5,6 @@
 
 - 👨‍💻 I’m currently working on web development and five m server
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ I love to play games .
  
 ```yaml                                                                      
 
