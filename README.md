@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🎓  Computer Science Student Student | 💻 Web Developer | 🎮 FiveM Developer  
+- 🎓  Computer Science Student  | 💻 Web Developer | 🎮 FiveM Developer  
 - 👨‍💻 I’m currently working on web development and five m server
 - 🎯 Goal: Never stop learning & never stop creating .
  
